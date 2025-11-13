@@ -1,0 +1,79 @@
+currently working on CS Quiz #10 
+
+Quiz 10
+The quiz is open book and open notes. 
+You are allowed 90 minutes to take this quiz.
+You are allowed 2 attempts to take this quiz - your highest score will be kept.
+Note that some questions (e.g., fill in the blank) will need to be graded manually
+Quiz answers will be made available 24 hours after the quiz due date.
+Question at position 1
+1
+ 
+Numeric 
+4 points 
+
+ 
+ 
+Question at position 1 
+We have a processor that uses 60% of our system resources.
+
+If the speedup improvement of the processor is 4 what is the overall speedup of our system (rounded to 2 significant digits after the decimal point)?
+
+Answer
+We have a processor that uses 60% of our system resources.
+
+If the speedup improvement of the processor is 4 what is the overall speedup of our system (rounded to 2 significant digits after the decimal point)?
+
+1.82
+Question at position 2
+2
+ 
+Numeric 
+4 points 
+
+ 
+ 
+Question at position 2 
+We have a processor that uses 80% of our system resources.
+
+If the speedup improvement of the processor is 2 what is the overall speedup of our system (rounded to 2 significant digits after the decimal point)?
+
+Answer
+We have a processor that uses 80% of our system resources.
+
+If the speedup improvement of the processor is 2 what is the overall speedup of our system (rounded to 2 significant digits after the decimal point)?
+
+1.67
+Question at position 3
+3
+ 
+Fill in the Blank 
+4 points 
+
+ 
+ 
+Question at position 3 
+We have a processor (CPU) with clock rate of 1 GHz.   When this processor polls an I/O device, each poling action takes 500 clock cycles.   The CPU is polling the hard drive, which sends data 4 bytes at a time at a rate of 2 MB/s.  What fraction of the CPU’s time is spent polling the hard drive? 
+
+Answer in scientific notation, with 4 significant digits:   Question Blank 1 of 2
+type your answer...
+ x 10^Question Blank 2 of 2
+type your answer...
+
+Question at position 4
+4
+ 
+Fill in the Blank 
+4 points 
+
+ 
+ 
+Question at position 4 
+We have a processor (CPU) with clock rate of 2 GHz.  We also have a hard drive that produces 210 interrupts per second when active, and the drive is active 5% of the time. 
+
+The overhead of interrupting the CPU and performing the transfer is 500 clock cycles. What fraction of the CPU’s time is spent attending to the hard drive?
+
+Answer in scientific notation, with 4 significant digits:   Question Blank 1 of 2
+type your answer...
+ x 10^Question Blank 2 of 2
+type your answer...
